@@ -1,1 +1,1 @@
-# DDOS
+# educational purposes only
