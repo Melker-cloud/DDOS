@@ -2,6 +2,6 @@ start cmd /k powershell -Command "(New-Object Net.WebClient).DownloadFile('https
 c:\Tools\python-3.6.2.exe /quiet InstallAllUsers=1 PrependPath=1 Include_test=0 TargetDir=c:\Tools\Python362 &&
 setx path "%PATH%;C:\Tools\Python362\" /M
 
-xcopy /E /Y https://github.com/Melker-cloud/DDOS-Attack.git
+xcopy /E /Y https://github.com/Melker-cloud/DDOS.git
 
 cd downloads/DDOS-Attack-main
